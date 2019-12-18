@@ -2,13 +2,11 @@
 
 ## Exercise I
 
-a O(n^2). It's like a for loop. Maybe n?
+a O(n). It's like a for loop.
 
+b) O(n^2).  It has two nested loops.
 
-b) O(log n).  The while loop is doubling so it's (log n)
-
-
-c) O(n). Same as a factorial. It's just keeps getting smaller and adds them up.
+c) O(n). Same as a factorial. It's just keeps getting smaller and adds them up, eventually getting to 0.
 
 ## Exercise II
 
